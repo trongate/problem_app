@@ -1,5 +1,5 @@
 <?php 
-//Simple Usage
+//Simple Usage Example
 
 /**
 * Encrypt a message
